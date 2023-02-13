@@ -1,2 +1,2 @@
-# code_snippets_ruby
+# code_snippets
 ## Showcase of code for portfolio
